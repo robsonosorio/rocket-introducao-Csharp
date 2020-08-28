@@ -20,7 +20,9 @@ namespace modulo2_OOP_2
         static void ImprimiAnimal(Animal animal)
         {
             Console.WriteLine($"Nome: {animal.Nome}");
-            Console.WriteLine($"Idade: {animal.Idade}\n");
+            Console.WriteLine($"Idade: {animal.Idade}");
+            Console.WriteLine($"Som Emitido: {animal.SomEmitido}");
+            Console.WriteLine($"Locomoção: {animal.SomEmitido}\n");
         }
     }
 }

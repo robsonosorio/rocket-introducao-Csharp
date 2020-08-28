@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Reflection.PortableExecutable;
-using System.Text;
-using treinamento.Entities.Enums;
+﻿using treinamento.Entities.Enums;
 
 namespace treinamento
 {

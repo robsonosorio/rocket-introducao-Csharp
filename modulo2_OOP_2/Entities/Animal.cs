@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using modulo2_OOP_2.Entities.Enums;
 
 namespace modulo2_OOP_2.Entities
 {
-    public class Animal
+    public abstract class Animal
     {
-        public string Nome { get; set; }
-        public int Idade { get; set; }
+        public string Nome { get; }
+        public int Idade { get; }
+        public abstract Som SomEmitido { get; }
+        public virtual string Locomocao { get { return "Está andando"; } }
 
         public Animal(string nome, int idade)
         {

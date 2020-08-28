@@ -1,6 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using modulo2_OOP_2.Entities.Enums;
 
 namespace modulo2_OOP_2.Entities
 {
@@ -9,5 +8,7 @@ namespace modulo2_OOP_2.Entities
         public Cachorro(string nome, int idade) : base (nome, idade)
         {
         }
+
+        public override Som SomEmitido => Som.Latido;
     }
 }
