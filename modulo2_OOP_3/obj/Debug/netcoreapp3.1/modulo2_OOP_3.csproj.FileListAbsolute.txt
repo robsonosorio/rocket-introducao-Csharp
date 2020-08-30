@@ -1,0 +1,13 @@
+C:\git\treinamento\modulo2_OOP_3\bin\Debug\netcoreapp3.1\modulo2_OOP_3.exe
+C:\git\treinamento\modulo2_OOP_3\bin\Debug\netcoreapp3.1\modulo2_OOP_3.deps.json
+C:\git\treinamento\modulo2_OOP_3\bin\Debug\netcoreapp3.1\modulo2_OOP_3.runtimeconfig.json
+C:\git\treinamento\modulo2_OOP_3\bin\Debug\netcoreapp3.1\modulo2_OOP_3.runtimeconfig.dev.json
+C:\git\treinamento\modulo2_OOP_3\bin\Debug\netcoreapp3.1\modulo2_OOP_3.dll
+C:\git\treinamento\modulo2_OOP_3\bin\Debug\netcoreapp3.1\modulo2_OOP_3.pdb
+C:\git\treinamento\modulo2_OOP_3\obj\Debug\netcoreapp3.1\modulo2_OOP_3.csprojAssemblyReference.cache
+C:\git\treinamento\modulo2_OOP_3\obj\Debug\netcoreapp3.1\modulo2_OOP_3.AssemblyInfoInputs.cache
+C:\git\treinamento\modulo2_OOP_3\obj\Debug\netcoreapp3.1\modulo2_OOP_3.AssemblyInfo.cs
+C:\git\treinamento\modulo2_OOP_3\obj\Debug\netcoreapp3.1\modulo2_OOP_3.csproj.CoreCompileInputs.cache
+C:\git\treinamento\modulo2_OOP_3\obj\Debug\netcoreapp3.1\modulo2_OOP_3.dll
+C:\git\treinamento\modulo2_OOP_3\obj\Debug\netcoreapp3.1\modulo2_OOP_3.pdb
+C:\git\treinamento\modulo2_OOP_3\obj\Debug\netcoreapp3.1\modulo2_OOP_3.genruntimeconfig.cache
