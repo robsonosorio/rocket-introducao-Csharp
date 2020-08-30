@@ -1,0 +1,6 @@
+C:\git\treinamento\ModuloCalculadora\bin\Debug\ModuloCalculadora.dll
+C:\git\treinamento\ModuloCalculadora\bin\Debug\ModuloCalculadora.pdb
+C:\git\treinamento\ModuloCalculadora\obj\Debug\ModuloCalculadora.csprojAssemblyReference.cache
+C:\git\treinamento\ModuloCalculadora\obj\Debug\ModuloCalculadora.csproj.CoreCompileInputs.cache
+C:\git\treinamento\ModuloCalculadora\obj\Debug\ModuloCalculadora.dll
+C:\git\treinamento\ModuloCalculadora\obj\Debug\ModuloCalculadora.pdb

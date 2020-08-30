@@ -1,0 +1,16 @@
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.exe
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.deps.json
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.runtimeconfig.json
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.runtimeconfig.dev.json
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.dll
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.pdb
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\ModuloCalculadora.dll
+C:\git\treinamento\CalculadoraConsole\bin\Debug\netcoreapp3.1\ModuloCalculadora.pdb
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.csprojAssemblyReference.cache
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.AssemblyInfoInputs.cache
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.AssemblyInfo.cs
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.csproj.CopyComplete
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.dll
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.pdb
+C:\git\treinamento\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.genruntimeconfig.cache
