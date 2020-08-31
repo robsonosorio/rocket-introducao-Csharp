@@ -1,0 +1,10 @@
+C:\git\rocketTalent\SimpleToPark\bin\Debug\SimpleToPark.exe.config
+C:\git\rocketTalent\SimpleToPark\bin\Debug\SimpleToPark.exe
+C:\git\rocketTalent\SimpleToPark\bin\Debug\SimpleToPark.pdb
+C:\git\rocketTalent\SimpleToPark\obj\Debug\SimpleToPark.csprojAssemblyReference.cache
+C:\git\rocketTalent\SimpleToPark\obj\Debug\SimpleToPark.FormPrincipal.resources
+C:\git\rocketTalent\SimpleToPark\obj\Debug\SimpleToPark.Properties.Resources.resources
+C:\git\rocketTalent\SimpleToPark\obj\Debug\SimpleToPark.csproj.GenerateResource.cache
+C:\git\rocketTalent\SimpleToPark\obj\Debug\SimpleToPark.csproj.CoreCompileInputs.cache
+C:\git\rocketTalent\SimpleToPark\obj\Debug\SimpleToPark.exe
+C:\git\rocketTalent\SimpleToPark\obj\Debug\SimpleToPark.pdb
