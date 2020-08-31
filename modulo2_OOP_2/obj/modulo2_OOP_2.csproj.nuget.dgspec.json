@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\treinamento\\modulo2_OOP_2\\modulo2_OOP_2.csproj": {}
+    "C:\\git\\rocketTalent\\modulo2_OOP_2\\modulo2_OOP_2.csproj": {}
   },
   "projects": {
-    "C:\\git\\treinamento\\modulo2_OOP_2\\modulo2_OOP_2.csproj": {
+    "C:\\git\\rocketTalent\\modulo2_OOP_2\\modulo2_OOP_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\treinamento\\modulo2_OOP_2\\modulo2_OOP_2.csproj",
+        "projectUniqueName": "C:\\git\\rocketTalent\\modulo2_OOP_2\\modulo2_OOP_2.csproj",
         "projectName": "modulo2_OOP_2",
-        "projectPath": "C:\\git\\treinamento\\modulo2_OOP_2\\modulo2_OOP_2.csproj",
+        "projectPath": "C:\\git\\rocketTalent\\modulo2_OOP_2\\modulo2_OOP_2.csproj",
         "packagesPath": "C:\\Users\\robson.osorio\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\treinamento\\modulo2_OOP_2\\obj\\",
+        "outputPath": "C:\\git\\rocketTalent\\modulo2_OOP_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robson.osorio\\AppData\\Roaming\\NuGet\\NuGet.Config",

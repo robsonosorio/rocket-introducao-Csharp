@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\treinamento\\CalculadoraConsole\\CalculadoraConsole.csproj": {}
+    "C:\\git\\rocketTalent\\CalculadoraConsole\\CalculadoraConsole.csproj": {}
   },
   "projects": {
-    "C:\\git\\treinamento\\CalculadoraConsole\\CalculadoraConsole.csproj": {
+    "C:\\git\\rocketTalent\\CalculadoraConsole\\CalculadoraConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\treinamento\\CalculadoraConsole\\CalculadoraConsole.csproj",
+        "projectUniqueName": "C:\\git\\rocketTalent\\CalculadoraConsole\\CalculadoraConsole.csproj",
         "projectName": "CalculadoraConsole",
-        "projectPath": "C:\\git\\treinamento\\CalculadoraConsole\\CalculadoraConsole.csproj",
+        "projectPath": "C:\\git\\rocketTalent\\CalculadoraConsole\\CalculadoraConsole.csproj",
         "packagesPath": "C:\\Users\\robson.osorio\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\treinamento\\CalculadoraConsole\\obj\\",
+        "outputPath": "C:\\git\\rocketTalent\\CalculadoraConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robson.osorio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "modulo2_OOP_3", "modulo2_OO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloCalculadora", "ModuloCalculadora\ModuloCalculadora.csproj", "{9FB168CB-7B63-47EB-9A37-F3407388DEE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraConsole", "CalculadoraConsole\CalculadoraConsole.csproj", "{B2747CDF-9675-4C7F-80BF-C8CC07F88FCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraConsole", "CalculadoraConsole\CalculadoraConsole.csproj", "{B2747CDF-9675-4C7F-80BF-C8CC07F88FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePaint", "SimplePaint\SimplePaint.csproj", "{1DD12827-2C54-4AB4-B6BD-503D125AB741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B2747CDF-9675-4C7F-80BF-C8CC07F88FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2747CDF-9675-4C7F-80BF-C8CC07F88FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2747CDF-9675-4C7F-80BF-C8CC07F88FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD12827-2C54-4AB4-B6BD-503D125AB741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD12827-2C54-4AB4-B6BD-503D125AB741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD12827-2C54-4AB4-B6BD-503D125AB741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD12827-2C54-4AB4-B6BD-503D125AB741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

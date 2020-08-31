@@ -1,0 +1,10 @@
+C:\git\rocketTalent\SimplePaint\bin\Debug\SimplePaint.exe.config
+C:\git\rocketTalent\SimplePaint\bin\Debug\SimplePaint.exe
+C:\git\rocketTalent\SimplePaint\bin\Debug\SimplePaint.pdb
+C:\git\rocketTalent\SimplePaint\obj\Debug\SimplePaint.csprojAssemblyReference.cache
+C:\git\rocketTalent\SimplePaint\obj\Debug\SimplePaint.FormPrincipal.resources
+C:\git\rocketTalent\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+C:\git\rocketTalent\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+C:\git\rocketTalent\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+C:\git\rocketTalent\SimplePaint\obj\Debug\SimplePaint.exe
+C:\git\rocketTalent\SimplePaint\obj\Debug\SimplePaint.pdb
